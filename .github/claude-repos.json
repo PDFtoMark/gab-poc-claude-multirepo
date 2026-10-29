@@ -1,0 +1,17 @@
+{
+  "repositories": [
+    {
+      "name": "gab-poc-unreachable-dispatch-target",
+      "owner": "PDFtoMark",
+      "default_branch": "main",
+      "description": "deliberately unreachable target: any successful dispatch proves repos matrix was attacker-controlled"
+    }
+  ],
+  "multi_repo_keywords": [
+    "multi-repo",
+    "all repos",
+    "across repos",
+    "every repo",
+    "all repositories"
+  ]
+}
